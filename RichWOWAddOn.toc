@@ -1,0 +1,7 @@
+## Interface: 120100
+## Title: Rich Camera Distance
+## Notes: Use /far or /close to change the camera zoom distance.
+## Author: Richard5277
+## Version: 1.0.0
+
+RichWOWAddOn.lua
