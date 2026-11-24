@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 16001, 16002, 16003, 16100, 16101, 16200, 120100, 120105
 ## Title: Rich Camera Distance
 ## Notes: Use /far or /close to change the camera zoom distance.
 ## Author: Richard5277
